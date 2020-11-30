@@ -7,6 +7,7 @@ getwd()
 library(readr)
 library(dplyr)
 
+
 #Importing Data
 tools <- read_csv("C:/Users/banva/Desktop/capstone/tool_data.csv")
 
